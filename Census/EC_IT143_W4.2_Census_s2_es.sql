@@ -1,0 +1,3 @@
+-- Q: Is there more data for males or females?
+
+-- A: Let's ask SQL Server and find out...

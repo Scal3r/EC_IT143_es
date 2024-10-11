@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS dbo.Movies;
+GO
+
+CREATE TABLE dbo.Movies
+(popularity VARCHAR(25) NOT NULL,
+
+CONSTRAINT PK_Movies PRIMARY KEY CLUSTERED (popularity ASC));
+GO
